@@ -6,4 +6,4 @@ Para agregar la pieza del [sensor de humedad](https://www.sparkfun.com/products/
 
 Para trabajar con el sensor de temperatura y humedad DHT22 es necesatio agregar una libreria yo he utilizado la libreria disponible gracias a [Adafruit Industries](https://www.adafruit.com/):
 
--[Libreria para el sensor de temperatura](https://github.com/adafruit/DHT-sensor-library)
+- [Libreria para el sensor de temperatura](https://github.com/adafruit/DHT-sensor-library)
